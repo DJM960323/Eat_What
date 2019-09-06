@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Glide</string>
+    <string name="app_name">吃啥？</string>
+
+    <string name="course_1">番茄炒蛋盖浇饭</string>
+    <string name="course_2">青椒肉丝盖浇饭</string>
+    <string name="course_3">油焖茄子盖浇饭</string>
+    <string name="course_4">回锅肉盖浇饭</string>
+    <string name="course_5">鱼香肉丝盖浇饭</string>
+    <string name="course_6">宫保鸡丁盖浇饭</string>
+    <string name="course_7">韭菜肉丝盖浇饭</string>
+    <string name="course_8">韭菜炒蛋盖浇饭</string>
+    <string name="course_9">丝瓜炒蛋盖浇饭</string>
+    <string name="course_10">黄瓜肉丝盖浇饭</string>
+    <string name="course_11">木耳肉丝盖浇饭</string>
+    <string name="course_12">火爆猪肝盖浇饭</string>
+    <string name="course_13">麻婆豆腐盖浇饭</string>
+    <string name="course_14">外婆菜肉丝盖浇饭</string>
+    <string name="course_15">干煸豆角盖浇饭</string>
+    <string name="course_16">地三鲜盖浇饭</string>
+    <string name="course_17">豆角茄子盖浇饭</string>
+    <string name="course_18">肉末茄子盖浇饭</string>
+    <string name="course_19">鱼香茄子盖浇饭</string>
+    <string name="course_20">胡萝卜肉丝盖浇饭</string>
+    <string name="course_21">泡菜苕粉肉丝盖浇饭</string>
+    <string name="course_22">蒙古牛肉盖浇饭</string>
+    <string name="course_23">香干肉丝盖浇饭</string>
+    <string name="course_24">辣子鸡盖浇饭</string>
+    <string name="course_25">腐竹牛腩丝盖浇饭</string>
+
+
+
 </resources>
